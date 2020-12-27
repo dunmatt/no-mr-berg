@@ -50,7 +50,7 @@ FAQ:
 
 **Q)** The stencil sucks! It looks like it was designed by a middle schooler that had never seen Inkscape before! Do I really have to use it??
 
-**A)** Well you're close, I'm not a middle schooler, more of a software engineer. But yes, I agree, that tree leaves a lot to be desired. Feel free to come up with a better version and post it here. If I like yours better I'll push it to Github and it'll become the new Orthodox stencil.
+**A)** Well you're close, I'm not a middle schooler, more of a software engineer. But yes, I agree, that tree leaves a lot to be desired and I didn't know about Inkscape's spiral tool at the time. Feel free to come up with a better version and post it here. If I like yours better I'll push it to Github and it'll become the new Orthodox stencil.
 
 **Q)** Aren't you worried about Trademark/Copyright stuff?
 
