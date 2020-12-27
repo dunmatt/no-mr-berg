@@ -1,5 +1,5 @@
 # no-mr-berg
-This repo houses and hosts the stencil and the canonical rules for the No, Mr. Berg! disc dyeing contest.
+This repo houses and hosts the stencil and the canonical rules for the No, Mr. Berg! disc dyeing contest.  To enter, interact with the participants, or just check out what the disc dyeing community can do, go to https://www.reddit.com/r/NoMrBerg
 
 # Rules
 
@@ -19,15 +19,15 @@ Disc dyeing is an art, and to put it mildly art doesn't always play by the rules
 
 1) You must dye a Kastaplast Berg.
 
-2) You must use a version of the stencil at: TODO upload the stencil to Github and link it here.
+2) You must use a version of the stencil at: https://raw.githubusercontent.com/dunmatt/no-mr-berg/main/noMrBerg.svg .
 
 3) You cannot "sell" the disc to yourself.
 
 4) In addition to donating, the "buyer" has to send you a picture of the finished disc, and the receipt from the charity with their username written on it (optionally with the other PII redacted). And you then post that picture here.
 
-5) Not all charities are created equal. Do your research and make sure the money goes to a reputable charity. There are good websites dedicated to helping you figure out which those are. (TODO: link to some here)
+5) Not all charities are created equal. Do your research and make sure the money goes to a reputable charity. There are good websites dedicated to helping you figure out which those are.  I would recommend doing your research on either https://www.charitywatch.org/ or https://www.charitynavigator.org/ .
 
-6) You are welcome to make adjustments to the stencil to better fit your workflow, as long as you are still attempting to achieve the same look.
+6) You are welcome to make minor adjustments to the stencil to better fit your workflow, as long as you are still attempting to achieve the same look.  If you find some modification invaluable, consider submitting it to the contest so that others can benefit!
 
 ## Freestyle "Rules":
 
